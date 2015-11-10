@@ -1,0 +1,23 @@
+name: Kaizen
+favicon: null
+layout_spectrum: 0.7679007828701288
+typography_spectrum: 0.225827450864017
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6918297314550728
+  lightness: 0.087914670817554
+  saturation: 0.14862392959184945
+  rhythmicContrast: 0.002073219744488597
+purpose: []
